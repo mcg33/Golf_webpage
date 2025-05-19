@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to the members zone</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Welcome to the Pro Chubs members zone</h1>
+    Members name: {{members.name}} <br>
+    Members PB: {{members.best_score}} <br>
+    Members Handicap: {{members.handicap}} <br>
+    Members lead sponsor: {{members.lead_sponsor}} <br>
+</body>
+</html>
