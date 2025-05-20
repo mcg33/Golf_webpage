@@ -2,37 +2,37 @@
     {
         "name": "Chris Bardley",
         "best_score": 87,
-        "handicap": "Yes",
+        "handicap": 19.1,
         "lead_sponsor": "Brorrito's burritos"
     },
     {
         "name": "Jack Redstall",
         "best_score": 101,
-        "handicap": "23.1",
+        "handicap": 23.1,
         "lead_sponsor": "Coca-Cola Coffee"
     },
     {
         "name": "Matthew Gordon",
         "best_score": 83,
-        "handicap": "+3",
+        "handicap": 15.1,
         "lead_sponsor": "Srixon Golf"
     },
     {
         "name": "Euan Mathias",
         "best_score": 97,
-        "handicap": "20.1",
+        "handicap": 22.6,
         "lead_sponsor": "Always Discreet"
     },
     {
         "name": "Patrick Mathias",
         "best_score": 92,
-        "handicap": "17.8",
+        "handicap": 18.1,
         "lead_sponsor": "MyPhysio app"
     },
     {
         "name": "Sam Gary",
         "score": 99,
-        "handicap": "18.0",
+        "handicap": 16.4,
         "lead_sponsor": "Viking River Cruises"
     }
 ]
